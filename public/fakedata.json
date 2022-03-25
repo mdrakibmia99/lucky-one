@@ -1,0 +1,89 @@
+[
+    {
+       
+        "id": 1,
+        "name": "MSI Raider GE66",
+        "model": "12UHS Core i9 12th Gen",
+        "Memory": "32GB",
+        "price":489900,
+        "img_url": "./img/laptop-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "HP ZBook",
+        "model": "Stealth GS66 12UGS",
+        "Memory": "32GB",
+        "price":398000,
+        "img_url": "./img/laptop-2.jpg"
+    },
+    {
+       
+        "id": 3,
+        "name": "Dell XPS",
+        "model": "XPS 15 9510",
+        "Memory": "16GB",
+        "price":315000,
+        "img_url": "./img/laptop-3.jpg"
+    },
+    {
+       
+        "id": 4,
+        "name": "Razer Blade 15",
+        "model": "i7 11th Gen",
+        "Memory": "32GB",
+        "price":360000,
+        "img_url": "./img/laptop-4.jpg"
+    },
+    {
+       
+        "id": 5,
+        "name": "Asus ROG",
+        "model": "ROG Flow X13 GV301QE",
+        "Memory": "32GB",
+        "price":335000,
+        "img_url": "./img/laptop-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dell XPS",
+        "model": "XPS 15 9510",
+        "Memory": "16GB",
+        "price":275000,
+        "img_url": "./img/laptop-6.jpg"
+    },
+    {
+      
+        "id": 7,
+        "name": "Acer Predator",
+        "model": "Predator PH315-53",
+        "Memory": "16GB",
+        "price":242000,
+        "img_url": "./img/laptop-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gigabyte Aorus",
+        "model": "Aorus 15G XC",
+        "Memory": "32GB",
+        "price":227000,
+        "img_url": "./img/laptop-8.jpg"
+    },
+    {
+       
+        "id": 9,
+        "name": "MSI Vector",
+        "model": "Vector GP66 12UE",
+        "Memory": "32GB",
+        "price":219000,
+        "img_url": "./img/laptop-9.jpg"
+    },
+    {
+       
+        "id": 10,
+        "name": "Gigabyte AERO",
+        "model": "AERO 15 OLED KC",
+        "Memory": "16GB",
+        "price":206000,
+        "img_url": "./img/laptop-10.jpg"
+    }
+]
