@@ -56,8 +56,8 @@ const Shop = () => {
        
         if (laptop.length !== 0) {
             const randNum = randomNumber(laptop.length);
-            const luckyCar = addedLaptop.find(luckyOne => luckyOne.id === laptop[randNum].id);
-            setAddedLaptop([luckyCar]);
+            const luckyLaptop = addedLaptop.find(luckyOne => luckyOne.id === laptop[randNum].id);
+            setAddedLaptop([luckyLaptop]);
         }
     }
 

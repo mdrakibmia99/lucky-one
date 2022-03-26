@@ -9,7 +9,7 @@ const Laptop = ({laptop,handleAddToClick}) => {
     return (
         <div className='grid-item'>
         <div className='laptop-info'>
-            <img src={img_url} alt="car_images" />
+            <img src={img_url} alt="laptop_images" />
             <div className="laptop-desc">
                 <h3><b>Name:</b> {name}</h3>
                 <p><b>Model:</b> {model}</p>

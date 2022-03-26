@@ -19,8 +19,8 @@
     {
        
         "id": 3,
-        "name": "Dell XPS",
-        "model": "XPS 15 9510",
+        "name": "Dell 15 XPS",
+        "model": "XPS 15 9510 rk",
         "Memory": "16GB",
         "price":315000,
         "img_url": "./img/laptop-3.jpg"
