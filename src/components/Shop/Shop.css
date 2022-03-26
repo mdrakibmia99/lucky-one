@@ -1,5 +1,6 @@
 .box-container {
-    
+    background-color:#485460;
+
     display: grid;
     grid-template-columns: 4fr 1fr;
     column-gap: 1rem;
