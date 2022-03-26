@@ -6,8 +6,8 @@ const Sidebar = ({addedLaptop,handleRemoveItem,handleChooseAgain,chooseLuckyOne}
  
     return (
         <div className='sidebar-area'>
-            <h4 className='laptop-count'> Total laptop={addedLaptop.length}</h4>
-            <h3 className='selected-laptop'> Selected Laptop</h3>
+            <h2 className='laptop-count'> Total laptop: {addedLaptop.length}</h2>
+            <h3 className='selected-laptop'> Selected Laptops</h3>
              {
                  addedLaptop.map(selectCart => <div key={selectCart.id} className='sidebar-cart' >
                      <img src={selectCart.img_url} alt="" />
