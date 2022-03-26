@@ -1,0 +1,46 @@
+.sidebar-cart {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    width: 60%;
+    margin: 0 auto;
+}
+.sidebar-cart img {
+    width: 15%;
+    border-radius: 50%; 
+    margin: 0 auto;
+}
+.laptop-count,.selected-laptop{
+    text-align: center;
+}
+.sidebar-cart p {
+    width:65%;
+    text-align: center;
+  
+}
+.sidebar-area{
+    position:sticky;
+    top:40%;
+    right: 0;
+}
+.btn-group{
+    width: 100%;
+}
+.choose-one,.choose-again{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: white;
+    
+}
+.choose-again{
+    background: #2c3e50;
+   
+}
+.choose-one{
+    background: #8e44ad;
+    margin-bottom: 10px;
+}

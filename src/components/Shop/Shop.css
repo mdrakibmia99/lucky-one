@@ -1,4 +1,5 @@
 .box-container {
+    
     display: grid;
     grid-template-columns: 4fr 1fr;
     column-gap: 1rem;
@@ -11,7 +12,35 @@
     margin-top: 5rem;
     margin-left: 2.5rem;
     margin-bottom: 1.25rem;
+    position: relative;
 }
+
+.side-bar{
+    background-color: aliceblue;
+    position: relative;
+   
+}
+
+/* For tablet mode */
+@media screen and (min-width: 481px) and (max-width:960px) {
+    .box-container {
+        display: grid;
+        grid-template-columns:3fr 1fr;
+        row-gap: 1rem;
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);;
+        row-gap: 1rem;
+        margin-left: 0;
+        margin-top: 1rem;
+        
+    }
+
+   
+}
+
 
 /* iPhone SE */
 @media screen and (max-width: 450px) {
